@@ -28,8 +28,8 @@ def web_page():
   menu="""
     <h1>LAMPOTILA</h1>
     <p>ULKO: """+str(temps['155'])+""" <p>
-    <p>TYO : """+str(temps['100'])+""" <p>
-    <p>OLO : """+str(temps['160'])+""" <p>
+    <p>TYO : """+str(temps['160'])+""" <p>
+    <p>OLO : """+str(temps['100'])+""" <p>
     <p>PAT : """+str(temps['47'])+""" <p>
 <p>  
     <p> LED <a href="/led/on"> <button class="button">ON</button></a>
